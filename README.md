@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on ...
-Undergraduate Researcher of Networked Systems Laboratory (NSL) (2019.12 ~ )
+Research Assistant with the Networked Systems Laboratory ([NSL](http://nsl.cau.ac.kr)), Chung-Ang University (2019.12 ~ )
 
 ### Interest
 👨‍🔬 Human-Computer Interaction, Mobile Computing, Indoor Localization  
