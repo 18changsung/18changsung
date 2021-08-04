@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on ...
+Undergraduate Researcher of Networked Systems Laboratory (NSL) (2019.12 ~ )
+
+### Interest
+👨‍🔬 Human-Computer Interaction, Mobile Computing, Indoor Localization  
+👨‍💻 iOS App Development, Machine Learning
+ 
 <!--
 **18changsung/18changsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
