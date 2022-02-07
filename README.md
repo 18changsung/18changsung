@@ -3,7 +3,7 @@ I'm Changsung Lim.
 
 ### 🔭 I’m currently working as a ...
 
-Research Assistant at the Networked Systems Laboratory ([NSL](http://nsl.cau.ac.kr)), Chung-Ang University (2019.12 ~ 2021.12)
+Research Assistant at the Networked Systems Laboratory ([NSL](http://nsl.cau.ac.kr)), Chung-Ang University (2019.12 ~ 2021.12).  
 M.S. student at the Human Computer Interaction Lab ([HCIL](https://hcil.kaist.ac.kr)), KAIST (2022.2 ~)
 
 ### Interest in ...
