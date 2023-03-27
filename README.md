@@ -8,15 +8,17 @@ Undergraduate Researcher at the Networked Systems Laboratory ([NSL](http://nsl.c
 
 ### Interest in ...
 ```
-👨‍🔬 Human-Computer Interaction, Text-Entry, Gesture Interaction, Mobile Computing  
-👨‍💻 iOS App Development, Signal Processing, Machine Learning
+👨‍🔬 Human-Computer Interaction, Virtual Reality, Spatial Interaction  
+👨‍💻 Unity, Embedded System, Signal Processing, Machine Learning, iOS App Development
 ```
 
 ### 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> &nbsp;
 
 <!--
 **18changsung/18changsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
