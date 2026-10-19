@@ -3,9 +3,9 @@ I'm Changsung Lim.
 
 ### 🔭 I’m currently working as a ...
 
-Ph.D. student at the Immersive Visualization and Interaction Lab ([IVI Lab](https://ivi.cc.gatech.edu/)), Georgia Institute of Technology (2026.8 - )
-M.S. student at the Human Computer Interaction Lab ([HCIL](https://hcil.kaist.ac.kr)), KAIST (2022.2 - 2026.2)  
-Undergraduate Researcher at the Networked Systems Laboratory ([NSL](http://nsl.cau.ac.kr)), Chung-Ang University (2019.12 - 2021.12)  
+Ph.D. student at the Immersive Visualization and Interaction Lab ([IVI Lab](https://ivi.cc.gatech.edu/)), Georgia Institute of Technology (2026.8 - )  
+M.S. at the Human Computer Interaction Lab ([HCIL](https://hcil.kaist.ac.kr)), KAIST (2022.2 - 2026.2)  
+Undergraduate Researcher at the Networked Systems Lab ([NSL](http://nsl.cau.ac.kr)), Chung-Ang University (2019.12 - 2021.12)  
 
 ### Interest in ...
 ```
